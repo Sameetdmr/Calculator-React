@@ -1,4 +1,4 @@
-# IOS Calculator React
+# IOS Calculator React <hr/>
 
 ### `git clone "repo link"`
 ### `cd weather`
